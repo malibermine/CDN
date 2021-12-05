@@ -1,2 +1,2 @@
 # CDN
-pic
+picture
